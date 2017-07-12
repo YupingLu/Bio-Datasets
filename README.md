@@ -1,5 +1,10 @@
-# Bio-Datasets
-Selected Bio Datasets for project test
+Bio Datasets for Robustness project
+===================================
 
-The orginal datasets in raw directory are downloaded from GEO.
-The datasets in the main directory has been preprocessed.
+Description
+-----------
+The orginal datasets in raw directory are downloaded from GEO. The datasets in the main directory has been preprocessed.
+
+Reference Paper
+---------------
+To be submitted, stay tuned:)
